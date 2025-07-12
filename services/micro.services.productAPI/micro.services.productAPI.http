@@ -1,0 +1,6 @@
+@micro.services.productAPI_HostAddress = http://localhost:5153
+
+GET {{micro.services.productAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

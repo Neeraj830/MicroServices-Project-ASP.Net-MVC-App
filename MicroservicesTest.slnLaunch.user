@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "micro.services.couponAPI\\micro.services.couponAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "micro.services.AuthAPI\\micro.services.AuthAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "micro.services.orderAPI\\micro.services.orderAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "micro.services.emailAPI\\micro.services.emailAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "micro.services.productAPI\\micro.services.productAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "micro.services.rewardAPI\\micro.services.rewardAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "micro.services.soppingCartAPI\\micro.services.soppingCartAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "frontend\\Micro.Web\\Micro.Web.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      }
+    ]
+  }
+]
